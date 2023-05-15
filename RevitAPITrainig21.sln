@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITrainig21", "RevitAPITrainig21.csproj", "{BD960848-BD52-4CE5-876D-2CD361D482E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD960848-BD52-4CE5-876D-2CD361D482E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD960848-BD52-4CE5-876D-2CD361D482E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD960848-BD52-4CE5-876D-2CD361D482E0}.Debug|x64.ActiveCfg = Debug|x64
+		{BD960848-BD52-4CE5-876D-2CD361D482E0}.Debug|x64.Build.0 = Debug|x64
+		{BD960848-BD52-4CE5-876D-2CD361D482E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD960848-BD52-4CE5-876D-2CD361D482E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD960848-BD52-4CE5-876D-2CD361D482E0}.Release|x64.ActiveCfg = Release|x64
+		{BD960848-BD52-4CE5-876D-2CD361D482E0}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5167CA55-C240-4E83-8B83-18227C77E072}
+	EndGlobalSection
+EndGlobal
